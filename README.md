@@ -6,6 +6,7 @@
 # What
 
 A small, simple, and fast DOM creation utility
+`Updated` to be compable with es5
 
 # Why
 
@@ -27,7 +28,7 @@ faster, etc...
 For browserify:
 
 ```bash
-npm i crel
+npm i es5-crel
 ```
 
 ```javascript
@@ -145,7 +146,7 @@ let element = crel.div(
 
 # Browser support
 
-Crel uses ES6 features, so it'll work in all evergreen browsers.
+Crel uses ES5 features, so it'll work in all evergreen browsers.
 
 # Goals
 
@@ -163,6 +164,6 @@ Depending on what browser you use, it is up there with straight `document.create
 **MIT**
 
 [npm-image]: https://img.shields.io/npm/v/crel.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/crel
+[npm-url]: https://npmjs.org/package/es5-crel
 [downloads-image]: http://img.shields.io/npm/dm/crel.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/crel
