@@ -1,6 +1,6 @@
 {
-  "name": "crel",
-  "description": "A small, simple, and fast DOM creation utility",
+  "name": "es5-crel",
+  "description": "A small, simple, and fast DOM creation utility [compable with es5]",
   "author": "Kory Nunn <knunn187@gmail.com>",
   "tags": [
     "DOM"
