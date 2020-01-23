@@ -1,11 +1,11 @@
 {
-  "name": "es5-crel",
-  "description": "A small, simple, and fast DOM creation utility [compable with es5]",
+  "name": "crel-es5",
+  "description": "A small, simple, and fast DOM creation utility compable with es5",
   "author": "Kory Nunn <knunn187@gmail.com>",
   "tags": [
     "DOM"
   ],
-  "version": "4.2.3",
+  "version": "4.2.1",
   "main": "crel.js",
   "module": "crel.umd.js",
   "dependencies": {},
@@ -33,14 +33,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/KoryNunn/crel.git"
+    "url": "git://github.com/paxapy/crel-es5.git"
   },
   "bugs": {
-    "url": "http://github.com/KoryNunn/crel/issues"
+    "url": "http://github.com/paxapy/crel-es5/issues"
   },
   "license": "MIT",
   "contributors": [],
-  "homepage": "https://github.com/KoryNunn/crel#readme",
+  "homepage": "https://github.com/paxapy/crel-es5#readme",
   "directories": {
     "test": "test"
   },
