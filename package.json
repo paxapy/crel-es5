@@ -5,9 +5,9 @@
   "tags": [
     "DOM"
   ],
-  "version": "4.2.1",
+  "version": "4.2.2",
   "main": "crel.js",
-  "module": "crel.umd.js",
+  "module": "crel.es.js",
   "dependencies": {},
   "devDependencies": {
     "@rollup/plugin-buble": "^0.20.0",
